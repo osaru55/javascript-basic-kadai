@@ -9,5 +9,5 @@ height = 1.7;
 
 bmi = weight / (height * height);
 
-// コンソールへの出力
+// コンソールへ出力
 console.log(bmi);
